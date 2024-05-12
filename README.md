@@ -2,8 +2,9 @@
 #REAL WHEELS 
 This is a responsive car website, created using HTML, CSS and JAVASCRIPT
 It looks like this 
- ![Screenshot (70)](https://github.com/ZaneleNe/Real-wheels/assets/136015898/501b3f63-3935-4127-b06f-31c2c28e961c) 
- ![Screenshot (71)](https://github.com/ZaneleNe/Real-wheels/assets/136015898/207e1da2-cc19-41e0-9342-8c3a5c44c1ca)
+ ![Screenshot (70)](https://github.com/ZaneleNe/Wheels-website/assets/136015898/432bfd95-a40f-444b-8a1e-c0c40e816b52)
+![Screenshot (71)](https://github.com/ZaneleNe/Wheels-website/assets/136015898/6ade5f59-8c9f-443c-8d29-40d23a715376)
+
 
 
 Prerequisites Before you begin, ensure you have met the following requirements:
