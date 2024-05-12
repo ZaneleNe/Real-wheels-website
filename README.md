@@ -8,7 +8,7 @@ It looks like this
 
 Prerequisites Before you begin, ensure you have met the following requirements:
 
-Git must be installed on your operating system. Run Locally To run Ridex locally, run this command on your git bash:
+Git must be installed on your operating system. Run Locally To run real-wheels locally, run this command on your git bash:
 
 Linux and macOS:
 
