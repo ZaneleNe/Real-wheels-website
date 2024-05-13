@@ -12,6 +12,7 @@
       "console": "integratedTerminal"
     },
 
+     // Configuration for launching index.html in Chrome debugger
     {
       "type": "chrome",
       "request": "launch",
