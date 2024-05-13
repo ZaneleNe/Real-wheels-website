@@ -18,4 +18,5 @@ Windows:
 
 git clone https://github.com/codewithzanele/real-wheels.git Contact
 
-contect me on linkedin Zanele : @https://www.linkedin.com/company/login/
+contect me on linkedin Zanele : @https://www.linkedin.com/company/login/  or @https://www.linkedin.com/in/khanyisa-precious-ba1668230
+
