@@ -18,6 +18,7 @@ the front end of this this website uses HTML, CSS & JavaScript
 
 Authors
 Zanele Nemaphohoni -   @https://www.linkedin.com/company/login/
+
 Khanyicou -  @https://www.linkedin.com/in/khanyisa-precious-ba1668230
 
 
