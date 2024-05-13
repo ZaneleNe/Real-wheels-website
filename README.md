@@ -34,7 +34,7 @@ sudo git clone https://github.com/codewithzanele/real-wheels.git
 
 Windows:
 
-git clone https://github.com/codewithzanele/real-wheels.git Contact
+git clone https://github.com/codewithzanele/real-wheels.git 
 
 You can access the demo here : https://zanelene.github.io/Real-wheels-website/
 
